@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f7f7f7;
+    width: 90%;
+    font-family: Karla, sans-serif;
+    margin: 50px auto;
+}
+
+img {
+    width: 100px;
+}
+
+@import "navigation.scss";
+@import "products.scss";
